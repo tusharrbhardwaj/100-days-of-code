@@ -16,3 +16,9 @@ Day 01: April 06, 2025
 
 **Link to work:**[A photo of my terminal that shows implementation of basic CLI commands for file navigation and their handeling.](https://drive.google.com/file/d/1CZ5OX9HvJUvYTp4GYCUZz_61DTZP5spq/view?usp=sharing)
 
+Day 02: April 07, 2025
+
+**Today's Progress**: But my hands on git Commands and their compatibility with Github and its main feature ie Version control. I did set my "git commit -m" Command's text editor to VS code so that every time I type git commit and hit enter, I am redirected to VS code for the commit message I want to make. Started the introduction To HTML and CSS. A few things I knew already, but learnt the individual meanings of HTML boilerplate.
+
+**Thoughts:**  Today's Task and progress was comparatively easier than the other two days. Though I am still struggling with read and learnt method, but I am working to get better at it.
+**Link to work:** : No specific link for todays work
