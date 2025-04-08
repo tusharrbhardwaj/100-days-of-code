@@ -30,4 +30,5 @@ Day 03: April 08, 2025
 
 **Thoughts:**  As I am getting more familiar with read and learn method, I am starting to like it. Though today was the day, I was very tired because of traveling, but I made enough time and efforts to not break my 100daysofcode
 
-**Link to work:** : 
+**Link to work:** : https://github.com/tusharrbhardwaj/100-days-of-code/commit/068e314f123d083025a467c3ca0203264800b3de
+https://github.com/tusharrbhardwaj/100-days-of-code/blob/master/index.html
