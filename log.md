@@ -26,7 +26,7 @@ Day 02: April 07, 2025
 Day 03: April 08, 2025
 
 **Today's Progress**: Today was the day when I learned more tags Related to HTML, which includes
-<strong> <em> <a> Also, the concept of "noopener" and "noreferrer" It's quite clear in my mind. I've learnt the Target ie The tab where to open the new link. A default target is "_self" However, we can set it to how it pleases us to set it to new blank tab or window we can use "_blank".
+"<strong> <em> <a>" Also, the concept of "noopener" and "noreferrer" It's quite clear in my mind. I've learnt the Target ie The tab where to open the new link. A default target is "_self" However, we can set it to how it pleases us to set it to new blank tab or window we can use "_blank".
 
 **Thoughts:**  As I am getting more familiar with read and learn method, I am starting to like it. Though today was the day, I was very tired because of traveling, but I made enough time and efforts to not break my 100daysofcode
 
